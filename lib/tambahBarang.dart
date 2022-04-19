@@ -112,7 +112,7 @@ class TambahBarangState extends State<TambahBarang> {
       barangKedua = false;
     }
     if (barangKetiga == true) {
-      items.add([title2, desc2]);
+      items.add([title3, desc3]);
       barangKetiga = false;
     }
     items.forEach((item) {
